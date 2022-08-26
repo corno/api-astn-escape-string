@@ -22,7 +22,7 @@
     "url": "git+https://github.com/corno/api-astn-escape-string.git"
   },
   "types": "dist/index.d.ts",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "interface-fingerprint": "a020b0f04f0ec0d8c12c08e764f3ec046cacbc58",
   "content-fingerprint": "c68486604ccd1c2563942eecc05062a3699fcd95"
 }
