@@ -23,6 +23,6 @@
   },
   "types": "dist/index.d.ts",
   "version": "0.2.0",
-  "interface-fingerprint": "fd5316364b8db1223295304fc1cfad90af945bb8",
-  "content-fingerprint": "c24f09e6a4beac2d4db33db98fe6767a5c690c06"
+  "interface-fingerprint": "f60d62bd3ad9492b74ddad07039cbacedf597a8f",
+  "content-fingerprint": "f1d99012a479cc8c94e24c9854317b8ebb1ebb35"
 }
